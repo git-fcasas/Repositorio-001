@@ -2,4 +2,4 @@
 
 Hola que tal... como te va! 
 
-Me voy a comprar un wv jetta gli turbo 2023 _README.md_   
+Me voy a comprar un jetta gli turbo 2023 _README.md_   
