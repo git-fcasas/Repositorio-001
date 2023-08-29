@@ -1,0 +1,129 @@
+commit 72d3f6db975359507010a418bc25618134080f6d
+Author: git-fcasas <ifercasas.57@gmail.com>
+Date:   Mon Aug 28 12:30:47 2023 -0600
+
+    Agregando 2 parrafos
+
+commit 660ba6cecf4cdf8924330a908eec80735efe90d1
+Merge: 4d6e566 8e4b166
+Author: git-fcasas <ifercasas.57@gmail.com>
+Date:   Mon Aug 28 12:11:29 2023 -0600
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit 4d6e566e80b25a9f1738e7895efa7b9f538482b4
+Author: git-fcasas <ifercasas.57@gmail.com>
+Date:   Mon Aug 28 10:37:34 2023 -0600
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 8e4b16673ad54699dcd69c1e2b7f63e3042adc44
+Author: git-fcasas <ifercasas.57@gmail.com>
+Date:   Mon Aug 28 10:37:34 2023 -0600
+
+    Agregando estaciones del año
+
+commit 7da01c0b03c70e0c33e61a329fc0ca8cd61bb186
+Merge: bde18bc 26d352d
+Author: git-fcasas <ifercasas.57@gmail.com>
+Date:   Mon Aug 28 10:01:54 2023 -0600
+
+    Resolviendo conflicto merge main-html en el documento index.html
+
+commit 26d352dcc353143a26e09c4136efc75508c3a21e
+Author: git-fcasas <ifercasas.57@gmail.com>
+Date:   Mon Aug 28 09:34:49 2023 -0600
+
+    Agregando index.js al al index.html
+
+commit bde18bc67d5965b0525528f092939372ce9efef3
+Author: git-fcasas <ifercasas.57@gmail.com>
+Date:   Mon Aug 28 09:28:42 2023 -0600
+
+    Agregando style.css al index.html
+
+commit c1f0aef093c939a04c292f8a0ba01acaea8b6ce7
+Author: git-fcasas <ifercasas.57@gmail.com>
+Date:   Sun Aug 27 14:54:15 2023 -0600
+
+    Creando style.css
+
+commit e0f37ece669a1a2cd22d3993e62e3e05badda8b8
+Author: git-fcasas <ifercasas.57@gmail.com>
+Date:   Sun Aug 27 13:11:39 2023 -0600
+
+    Creando mi archivo index.html
+
+commit 78e4dbe54a92bcdc2dd67857ed9ff1e3841b0c5a
+Author: git-fcasas <ifercasas.57@gmail.com>
+Date:   Sun Aug 27 11:52:10 2023 -0600
+
+    mensaje descriptivo del cambio por mi cuenta
+
+commit 3cb7dcc915620999b561ad286992931a5965e690
+Author: git-fcasas <ifercasas.57@gmail.com>
+Date:   Sat Aug 26 17:48:51 2023 -0600
+
+    mensaje descriptivo del cambio n.n
+
+commit 9bbd57841062cd290cb2ceaeeaed42641cdce44d
+Author: git-fcasas <ifercasas.57@gmail.com>
+Date:   Sat Aug 26 17:45:42 2023 -0600
+
+    mensaje descriptivo del cambio n.n
+
+commit cbd5e9854d4c704bdc36915c8c9ff4bfb71f7c68
+Author: git-fcasas <ifercasas.57@gmail.com>
+Date:   Sat Aug 26 17:43:25 2023 -0600
+
+    mensaje descriptivo del cambio n.n
+
+commit 5472102b3393bd175cd961a2f0fcd4a8c711bf24
+Author: git-fcasas <ifercasas.57@gmail.com>
+Date:   Sat Aug 26 17:34:49 2023 -0600
+
+    mensaje descriptivo del cambio
+
+commit 68ec299d75827513388ccfa76042fe5f411b185d
+Author: git-fcasas <ifercasas.57@gmail.com>
+Date:   Sat Aug 26 17:29:26 2023 -0600
+
+    mensaje descriptivo del cambio
+
+commit 03f61ba328281ba48dc062708de05314dbef61c2
+Author: git-fcasas <114263060+git-fcasas@users.noreply.github.com>
+Date:   Mon May 22 09:52:55 2023 -0600
+
+    Create LICENSE
+    
+    Creando una licencia
+
+commit 52a9728188c2ee20d599aabda1e7e19861a4bf80
+Author: git-fcasas <ifercasas.57@gmail.com>
+Date:   Mon May 22 09:28:25 2023 -0600
+
+    Agregando más contenido al README
+
+commit 46becc32b9ff4f8a67f1701e929dd49223616801
+Author: git-fcasas <ifercasas.57@gmail.com>
+Date:   Mon May 22 09:25:15 2023 -0600
+
+    Agregando más contenido al README
+
+commit a89a936850636dedea0ae5775e94d9534ebb28ab
+Author: git-fcasas <ifercasas.57@gmail.com>
+Date:   Sun May 21 23:01:23 2023 -0600
+
+    Se agrego un n uevo contenido
+
+commit b1e0e2e3a8834b79224849e328185804cdd970c6
+Author: fcasas <ifercasas.57@gmail.com>
+Date:   Wed May 17 15:44:25 2023 -0600
+
+    mensaje descriptivo del cambio
+
+commit 1127b21a4a3c79d0c6d342d026329d340a721042
+Author: fcasas <ifercasas.57@gmail.com>
+Date:   Wed May 17 15:39:20 2023 -0600
+
+    mensaje descriptivo del cambio}
